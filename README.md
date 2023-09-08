@@ -1,7 +1,7 @@
 # Pradyumn
 About me
 # 💫 About Me:
-I'm Currently Working on Data Analytics. <br>You can talk to me about Image Processing, Data Analytics 
+I'm Currently Working on Data Analytics and Visualization. <br>I have keen interests in Research in Bioinformatics. I have worked in Front-end, Data Analytics and Visualization, Image Processing and Software Development. 
 
 
 ## 🌐 Socials:
